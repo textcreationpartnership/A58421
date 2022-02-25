@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of a late barbarous assault of the French upon the English near the Downs, March the 12th, 1688/9 attested by captain, officers, and several of the passengers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58421</idno>
+            <idno type="STC">Wing R789_VARIANT</idno>
+            <idno type="STC">ESTC R36709</idno>
+            <idno type="EEBO-CITATION">15987864</idno>
+            <idno type="OCLC">ocm 15987864</idno>
+            <idno type="VID">104689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of a late barbarous assault of the French upon the English near the Downs, March the 12th, 1688/9 attested by captain, officers, and several of the passengers.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes "Advertisement".</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary of Lyme Regis (Ship)</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104689:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>A RELATION of a late Baibarous Aſſault of the <hi>FRENCH</hi> upon the <hi>ENGLISH,</hi> near the <hi>Downs,</hi> 
+               <date>
+                  <hi>March</hi> the 12th. 1688/9.</date> Atteſted by Captain, Officers, and ſeveral of the Paſſengers.</head>
+            <p>CAptain <hi>Butcher,</hi> Commander of the good Ship, called the <hi>Mary</hi> of <hi>Lyme Regis,</hi> bound for <hi>London,</hi> ſailed from the Port of <hi>Lyme</hi> the ſixth of this Inſtant <hi>March,</hi> with divers ſorts of Merchant-Goods; and the twelfth of this Inſtant proceeding on her Intended Voyage, four Leagues off <hi>Dungenneſs,</hi> met with a <hi>French</hi> Man of Warre, who bore up to him, and coming near, the ſaid Captain <hi>Butcher</hi> not knowing of any War betwixt <hi>England</hi> and <hi>France,</hi> he thought it not fit to make Reſiſtance, ſome ſhot was fired from the French man and ſtruck her, to the danger of ſome Paſſengers, though, as it pleaſed God, none was wounded; about Ten in the morning they commanded the ſaid Cap<g ref="char:EOLhyphen"/>tain <hi>Butcher</hi>'s Boat on board, who was forced to ſubmit, having not where<g ref="char:EOLhyphen"/>withall to withſtand ſo great a force: ſo manning his Boat, and coming on board, they demanded the late King <hi>James</hi>'s Paſsport; the Captain anſwered, <hi>I have none, here are my Cockets from the Cuſtom-houſe at</hi> Lyme, <hi>which I think is a ſuſſicient Diſcharge for me;</hi> and alſo ſaid, <hi>I hope there is no War betwixt the</hi> Engliſh <hi>and your King;</hi> the Anſwer was, <hi>You Dogs, you Rognes, I will go on board and ſee what you have:</hi> And coming on board the ſaid Captain <hi>Butcher</hi>'s Ship, opened all the Letters, not only the Maſters, but divers Letters of the Paſſengers, and barbarouſly uſed the Commander, a very worthy Gentleman, his Father having ſerved his late Majeſty King <hi>charles</hi> the Second very faithfully in his Wars againſt the <hi>French;</hi> and this worthy Commander reſolved now to engage in his beſt Capacity in and for his Countreys ſafety, which was his greateſt concern in coming up to <hi>London;</hi> he was beaten and abuſed at a very ſevere rate: The Plunder of the Ship not ſatisfying their gorging appetite, they took from him all his Money, moſt part of the Goods worth carrying away, his Proviſions; and ſo barbarous were theſe inhumane Papiſts, that they robbed the civil Paſſengers, and took all they could from them, running their Swords at their Breaſt, and threatning them with immediate Death. Theſe things are ready to be atteſt<g ref="char:EOLhyphen"/>ed, and more of their barbarous Proceedings with the Gentlemen-Paſſengers on board the ſaid Ship, by the ſaid Captain, and his Men and Paſſengers, the ſaid Ship lying at Mr. <hi>Cotton</hi>'s Wharf, near the Brdige in <hi>Southwark.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Mr. <hi>John Butcher,</hi> Captain.</item>
+                     <item>Mr. <hi>John Stoakes,</hi>
+                     </item>
+                     <item>Mr. <hi>John Wicker,</hi>
+                     </item>
+                     <item>Mr. <hi>Henry Puſs,</hi>
+                     </item>
+                     <item>Mr. <hi>Summers.</hi>
+                     </item>
+                     <item>Mr. <hi>Solomon Sweedland,</hi> Paſſengers.</item>
+                     <item>Mr. <hi>John Sprague,</hi> Paſſengers.</item>
+                     <item>Mr. <hi>Tho. Day,</hi> Paſſengers.</item>
+                     <item>Mr. <hi>Tho. Wilſon.</hi> Paſſengers.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>There is now Publiſh'd a ſecond Edition of a Book, Entituled, <hi>The Bloody Aſſizes,</hi> being a Compleat Hiſtory of the Life of <hi>George</hi> Lord <hi>Jefferies,</hi> from his Birth to this preſent time; wherein among other things is given a true Account of his unheard of Cruelties, throughout his whole <hi>Weſtern Circuit:</hi> To which is added Major <hi>Holms</hi>'s ex<g ref="char:EOLhyphen"/>cellent Speech, with the Dying Speeches of many other eminent Proseſtants. This Book of my Lord <hi>Jefferies</hi> Life, together with the firſt and ſecond Collections of the Dying Speeches already publiſht, compleats the whole <hi>Weſtern</hi> Tranſactions for the Year <hi>85.</hi> All ſold by <hi>John Dunton</hi> at the <hi>Black Raven</hi> in the <hi>Poultrey,</hi> over againſt the Compter.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and ſold by <hi>R. Jameway</hi> in <hi>Queens-Head-Alley</hi> in <hi>Pater-noſter-Row,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
